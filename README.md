@@ -1,0 +1,1 @@
+# skolverket2osm
