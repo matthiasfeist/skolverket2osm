@@ -1,6 +1,6 @@
 # skolverket2osm
 
-This projects converts data about schools in Sweden to a file that can be used to import this data into OpenStreetMap.
+This projects converts data about schools in Sweden to a file that can be used to import this data into OpenStreetMap. You can read more about this effort on [the OSM Wiki page for this import project](https://wiki.openstreetmap.org/wiki/Import/Catalogue/Sweden_school_import).
 
 ## How to use this script:
 
